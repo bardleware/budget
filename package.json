@@ -1,0 +1,26 @@
+{
+  "name": "budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.4.2",
+    "testdouble": "^3.5.2"
+  },
+  "dependencies": {
+    "awilix": "^3.0.7",
+    "superstruct": "^0.5.1"
+  }
+}
